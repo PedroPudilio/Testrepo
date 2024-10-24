@@ -3,7 +3,7 @@
 Thus repo was created 4 **lab_1**. 
 *it's not a big deal/*
 ~~striked text~~
->quote<
+>quote/>
 command list:
 '''
 pacman -Syy
