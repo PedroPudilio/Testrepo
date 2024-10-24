@@ -6,9 +6,9 @@ Thus repo was created 4 **lab_1**.
 >quote
 
 command list:
-'''
+```
 pacman -Syy
 pacman -Syu
 pacman -S git
 pacman -Q git
-'''
+```
